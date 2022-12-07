@@ -6,7 +6,7 @@
 </P>
 
 <h3 align='center'><samp><strong>Hey there! I'm Batuhan </strong></samp></h3> 
- <h5 align='center'><samp><a href="https://batuhantastekin.github.io/">Portfolio</a></samp></h5>
+ <h5 align='center'><samp><a href="https://github.com/batuhantastekin?tab=repositories/">Portfolio</a></samp></h5>
 <h4 align='center'> <samp>React Developer | Blockchain Developer </samp></h4>
 <p align='center'><samp>
 I'm a React Developer with proficiency in Data Structures Algorithms Express and MongoDB who enjoys making web application and learning new technology.
